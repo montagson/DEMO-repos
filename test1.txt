@@ -1,6 +1,8 @@
-yoo read me im cool song
-you are nothing that u are wrong
-gay
-
-
-now i add it in browser so lol
+cd /c/...... - зайти в директоорію
+ls - що в папці
+git add - додати файл з локальної машини на обробку в комміт
+git commit - підтвердити комміт
+git push - загрузити на гітхаб зміни
+git pull - оновити з гітхаба на локальну машину
+git status - статус бренча(гілки)
+git log - лог змін
